@@ -1,0 +1,14 @@
+Mar 31, 2023 12:58:20 PM sample.model.MyLogger <init>
+INFO: Login successful
+Mar 31, 2023 12:59:18 PM sample.model.MyLogger <init>
+INFO: Saved Successfully
+Apr 03, 2023 9:54:37 AM sample.model.MyLogger <init>
+INFO: Login successful
+Apr 03, 2023 12:01:28 PM sample.model.MyLogger <init>
+INFO: Login successful
+Apr 03, 2023 12:05:11 PM sample.model.MyLogger <init>
+INFO: Login successful
+Apr 03, 2023 12:07:07 PM sample.model.MyLogger <init>
+INFO: Saved Successfully
+Apr 03, 2023 12:22:06 PM sample.model.MyLogger <init>
+INFO: Login successful
